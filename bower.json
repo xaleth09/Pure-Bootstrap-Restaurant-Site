@@ -1,0 +1,24 @@
+{
+  "name": "conFusion",
+  "authors": [
+    "xaleth09 <xaleth09@gmail.com>"
+  ],
+  "description": "Coursera Website",
+  "main": "index.html",
+  "keywords": [
+    "conFusion"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
